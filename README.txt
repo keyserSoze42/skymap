@@ -1,3 +1,5 @@
+Making this gradle instead of ant b\c ant sucks
+
 This is the source repository for Sky Map. You should see the following
 three directories:
  * app: Application source
